@@ -24,3 +24,6 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 ## License
 
 This project is licensed under the MIT License.
+
+## Deployment 
+https://shreyapalanivelcodes.github.io/tictactoe---Prodigy/
